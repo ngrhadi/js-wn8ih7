@@ -1,0 +1,13 @@
+{
+  "name": "js-txi1es",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@turf/bbox-clip": "6.0.3",
+    "@turf/boolean-within": "6.0.1",
+    "@turf/helpers": "6.1.4",
+    "@turf/intersect": "^6.1.3",
+    "ol": "5.3.3",
+    "turf": "3.0.14"
+  }
+}
